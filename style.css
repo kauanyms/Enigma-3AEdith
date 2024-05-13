@@ -7,7 +7,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-    background-color: #ee97df;
+    background-color:#752969;
     color: #fff;
     padding: 20px;
 }
@@ -34,7 +34,7 @@ header nav ul li a {
 
 /* Estilos para o rodapé */
 footer {
-    background-color: #ee97df;
+    background-color: #752969;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -65,7 +65,7 @@ footer div ul.social-media li a img {
 
 /* Estilos para links */
 a {
-    background-color: #000000;
+    background-color: #dbd5da;
     color: #fff;
     text-decoration: none;
 }
